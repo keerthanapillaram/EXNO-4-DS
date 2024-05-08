@@ -24,6 +24,30 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/2012ab37-6dcd-4b6a-8137-7c021a5fc095)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/934bfeed-9707-40bf-ba6f-1d3ecace3db0)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/287e5840-8905-4ade-90bf-f5c059b9b14d)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/05b732d5-bec6-46b7-8953-af4fd01061d8)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/cc19e635-e706-4d0a-ab7f-89527b899a2d)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/127ba6fc-73f0-426e-b799-40d3ffc30ae9)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/63ad6819-df54-4f7b-bfa1-101498be8f50)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/b181b841-dc17-42da-8d95-781c5a113af1)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/29cec1f0-69c5-40de-ae3d-c103c498196b)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/953495f3-45d5-437d-b5dc-fda7e01e3d1a)
+
+![image](https://github.com/keerthanapillaram/EXNO-4-DS/assets/145743072/acec373e-df07-42b0-8e71-cd137fc93c5f)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+Thus, Feature selection and Feature scaling has been used on thegiven dataset.
